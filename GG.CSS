@@ -2,13 +2,13 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background-color: #f4f4f4;
-  color: #222;
+  color: #151515;
   transition: all 0.3s ease;
 }
 
 .dark-mode {
-  background-color: #111;
-  color: #eee;
+  background-color: #6379f8;
+  color: #61c3f4;
 }
 
 .container {
@@ -25,7 +25,7 @@ header {
 button {
   padding: 0.5rem 1rem;
   margin-top: 1rem;
-  background-color: #008cba;
+  background-color: #33f636;
   color: white;
   border: none;
   cursor: pointer;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #005f6b;
+  background-color: #2233ed;
 }
 
 .clock-section, .message-section {
