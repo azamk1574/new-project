@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+  transition: all 0.3s ease;
+}
+
+.dark-mode {
+  background-color: #111;
+  color: #eee;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  background-color: #008cba;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #005f6b;
+}
+
+.clock-section, .message-section {
+  margin: 2rem 0;
+}
+
+#messageForm input {
+  padding: 0.5rem;
+  width: 70%;
+  margin-right: 0.5rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  font-size: 0.9rem;
+}
