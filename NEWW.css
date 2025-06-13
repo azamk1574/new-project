@@ -1,0 +1,64 @@
+html{
+    background-color: #f0f0f0;
+}
+
+.KEXP {
+  
+    padding: 20px 45px 25px 45px; /* fixed padding syntax */
+    box-sizing: content-box;
+    border-width: 0;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: #000000;
+    
+}
+
+.AZAM{
+
+    color: #007aff ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40;
+    font-size: 865%;
+    
+}
+#TheNew{
+    color: #787676;
+    font-family: monospace;
+    font-size: medium;
+    font-weight: lighter;
+    
+}
+
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+
+
+
+.KEXPLL{
+    padding: 20px 10px 15px 5px;
+    text-align: center;
+    background-color: hsl(0, 0%, 0%);
+
+}
+
+#GK{
+    color: aliceblue;
+    text-align: center;
+    font-size: large;
+    
+}
+
+#IMAGE {
+margin-bottom: 15px ;
+margin-top: 15px;
+width: 50%;
+border: 2px solid #c2c2c2;
+float: middle;
+box-shadow: #787676;
+}
+
